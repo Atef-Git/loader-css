@@ -10,10 +10,10 @@ body {
   background-color:#112233;
 }
 .container {
-  width: 150px;
-  height:150px;
-  border:11px solid #fcd779;
-  border-top: 11px solid white;
+  width: 200px;
+  height:200px;
+  border:20px solid #fcd779;
+  border-top: 20px solid white;
   border-radius:50%;
   animation: rotate 4s infinite linear;
 }
